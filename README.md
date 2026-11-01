@@ -20,5 +20,5 @@
 
 # > Language: Java
 # > Random word API I'm hoping to use: https://random-word-api.herokuapp.com/home
-# The random word is given in a JSON flie from which my program will be able to read it.
+# The random word is given in a JSON file from which my program will be able to read it.
 # Libraries I will probably use: LocalDate
